@@ -1,0 +1,15 @@
+/*  This file will define text align, font type, font size, font colour and font-background colour, for the following: 
+paragraphs
+heading1, heading2, heading3
+classes: link, rice, pancakes, oats
+list elements: ol, ul, li,*/
+
+/*It will also define the img dimensions. */
+
+h1 {
+    text-align: center; 
+    font-family:'Times New Roman', Times, serif;
+    font-size: 19px;
+    color: blue; 
+    background-color: yellow;
+}
