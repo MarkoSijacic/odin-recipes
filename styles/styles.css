@@ -119,7 +119,9 @@ li {
 /*images*/
 
 img {
-    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 500px;
-    align: center;
+    height: auto;
 }
